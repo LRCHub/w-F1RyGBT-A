@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Sign",
+  "base_artist": "FLOW",
+  "createdAt": "2026-02-07T23:35:23.565127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "26 (Cents Sign)",
+      "artist": "The Wilkinsons",
+      "has_synced": true,
+      "path": "select/01_26_(Cents_Sign)_The_Wilkinsons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "26 (Cents Sign) (Album Version)",
+      "artist": "The Wilkinsons",
+      "has_synced": true,
+      "path": "select/02_26_(Cents_Sign)_(Album_Version)_The_Wilkinsons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Warning Sign",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/03_Warning_Sign_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Warning Sign",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/04_Warning_Sign_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sign",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Sign_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After Dark (feat. Static Major & Ty Dolla Sign)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/06_After_Dark_(feat._Static_Major_&_Ty_Dolla_Sign)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sorry Momma (Feat. Ty Dolla Sign)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/07_Sorry_Momma_(Feat._Ty_Dolla_Sign)_YG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Warning Sign",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/08_Warning_Sign_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neon Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/09_Neon_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Signal And Sign",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/11_Signal_And_Sign_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "An Ancient Sign Of Coming Storm",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/12_An_Ancient_Sign_Of_Coming_Storm_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sign Of Love",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/13_Sign_Of_Love_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Was That a Sign",
+      "artist": "Nite Jewel",
+      "has_synced": true,
+      "path": "select/14_Was_That_a_Sign_Nite_Jewel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give Me a Sign",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/15_Give_Me_a_Sign_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sign Language",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/16_Sign_Language_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Waiting On A Sign",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/17_Waiting_On_A_Sign_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Warning Sign",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/18_Warning_Sign_Travis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sign",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_Sign_FLOW.txt"
+    }
+  ]
+}
